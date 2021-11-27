@@ -1,11 +1,1 @@
-[
-    {
-        "title": "Test Title",
-        "text": "Test Text"
-    },
-    {
-        "title": "mail",
-        "text": "check mail",
-        "id": "bc7bcafd-e215-4671-9789-8d418687c7e8"
-    }
-]
+[{"title":"mail","text":"check mail","id":"bc7bcafd-e215-4671-9789-8d418687c7e8"},{"title":"trash","text":"take trash out","id":"3cbb26d7-4f47-41af-8daf-58baa7142443"},{"title":"dishes","text":"do dishes","id":"e4aa888c-b1b8-4234-b9b9-48a2e0265b15"},{"title":"homework","text":"do homework","id":"daf885f9-e71b-4913-8bed-a8d97f8f1555"}]
