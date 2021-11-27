@@ -15,12 +15,14 @@
   ## Installation
   Initialize NPM, install dependencies
 
+  ## Questions 
+  You can reach me at maxhumpherys@gmail.com or on [GitHub](https://github.com/maxh1231)
+
   ## Screenshot
   ![image](https://user-images.githubusercontent.com/41771785/143670936-56cca723-64a6-43d1-8008-c59ee973a392.png)
 
-
-  ## Questions 
-  You can reach me at maxhumpherys@gmail.com or on [GitHub](https://github.com/maxh1231)
+  ## Live Application
+  [Heroku](https://maxh-notetaker.herokuapp.com/)
 
   ## License
   
