@@ -1,6 +1,11 @@
 [
     {
         "title": "Test Title",
-        "text": "Test text"
+        "text": "Test Text"
+    },
+    {
+        "title": "mail",
+        "text": "check mail",
+        "id": "bc7bcafd-e215-4671-9789-8d418687c7e8"
     }
 ]
